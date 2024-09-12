@@ -1,1 +1,1 @@
-[[kNN - Spatial Domain - Batch Size Analysis]]
+[[kNN SD1.5 - Spatial Domain - Batch Size Analysis]]

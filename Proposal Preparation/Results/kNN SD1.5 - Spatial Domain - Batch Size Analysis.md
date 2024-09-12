@@ -14,9 +14,9 @@ With 50% Train, 50% Test and fixed random state 2003
 | Precision | 0.99      | 0.89             |
 | Recall    | 0.7       | 0.25             |
 *Confusion Matrix For Denoised Image*
-![[ConfusionMAtrix-kNN-Denoised01.png]]
+![[NMA Research/Proposal Preparation/Results/SD1.5-kNN-Graphs/ConfusionMAtrix-kNN-Denoised01.png]]
 
-*Confusion Matrix For Residuals*![[ConfusionMAtrix-kNN-Residuals01.png]]
+*Confusion Matrix For Residuals*![[NMA Research/Proposal Preparation/Results/SD1.5-kNN-Graphs/ConfusionMAtrix-kNN-Residuals01.png]]
 
 ### SD1.5 100 Batch Depth 15 Results
 ###### Inputs
@@ -33,6 +33,6 @@ With 50% Train, 50% Test and fixed random state 2003
 | F1        | 0.84      | 0.04             |
 | Precision | 0.99      | 0.80             |
 | Recall    | 0.72      | 0.02             |
-*Confusion Matrix For Denoised Image![[ConfusionMAtrix-kNN-Denoised02.png]]*
+*Confusion Matrix For Denoised Image![[NMA Research/Proposal Preparation/Results/SD1.5-kNN-Graphs/ConfusionMAtrix-kNN-Denoised02.png]]*
 *Confusion Matrix For Residuals*
-![[ConfusionMAtrix-kNN-Residuals02.png]]
+![[NMA Research/Proposal Preparation/Results/SD1.5-kNN-Graphs/ConfusionMAtrix-kNN-Residuals02.png]]
