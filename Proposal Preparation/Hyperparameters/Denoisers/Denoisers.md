@@ -1,1 +1,1 @@
-[[DnCNN Denoiser]]
+[[DnCNN Denoiser Depth Effect]]
