@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6d2305858146a905","type":"text","text":"# Paper: Raising the Bar \nAim:\nexplore the potential of pretrained [vision-language models (VLMs)] for universal detection of AI-generated images.\n\nRelated Methods:\n- Spatial domain methods:\n\tEach generation model, in fact, inserts a sort of digital fingerprint into all the images it creates, which depends on its architectural and training details. This fingerprint can be easily estimated.\n\tIn([Paper](https://www.youtube.com/watch?v=0z8JCddNHPg)) a systematic study is carried out on transferable forensic features that allows easier generalization.[transferable forensic features]\n- Frequency domain methods: \n\tGAN-image artifacts are more easily spotted in the frequency domain and are clearly visible in the artificial fingerprint spectra\n\tit is worth observing that DM images may also present spectral peaks.","x":-300,"y":-840,"width":460,"height":750},
-		{"id":"1a581f813908a184","type":"text","text":"Tasks: \n- base datasets >> Models \n- Sample of [[Results]]\n- Hyperparameters:\n\t- [[Denoisers]]\n\t- Data size\n\t- Classification Method\n\t- Residuals vs Images\n\t- Phase Vs Magnitude\n\t- \n- ","x":-300,"y":-1200,"width":801,"height":310}
+		{"id":"1a581f813908a184","type":"text","text":"Tasks: \n- base datasets >> Models \n- Sample of [[Results]]\n- Hyperparameters:\n\t- [[Denoisers]]\n\t- [[kNN SD2.1 - Spatial Domain - Batch Size Analysis]], [[kNN SD1.5 - Spatial Domain - Batch Size Analysis]]\n\t- Classification Method\n\t- Residuals vs Images\n\t- Phase Vs Magnitude","x":-300,"y":-1200,"width":801,"height":310}
 	],
 	"edges":[]
 }

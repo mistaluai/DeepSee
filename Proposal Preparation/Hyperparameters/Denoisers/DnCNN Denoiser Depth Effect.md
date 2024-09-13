@@ -6,11 +6,11 @@
 | Fake SD1.5 (1) | 200      |
 With 50% Train, 50% Test and fixed random state 2003
 ###### Network Depth
-| Depth | Results              |
-| ----- | -------------------- |
-| 5     | [[#Depth 5 Results]] |
-| 25    |                      |
-| 40    |                      |
+| Depth | Results               |
+| ----- | --------------------- |
+| 5     | [[#Depth 5 Results]]  |
+| 25    | [[#Depth 25 Results]] |
+
 
 ## Results
 #### Depth 5 Results
