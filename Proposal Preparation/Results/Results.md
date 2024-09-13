@@ -11,3 +11,5 @@ Batch size doesn't have direct impact on the accuracy of the detection as long a
 [[kNN SD1.5 - Frequency Domain - Phase vs Magnitude Analysis]]
 ##### Summary
 We can build an assumption upon this that the magnitude holds more important features than the phase.
+## Fingerprint Extraction
+[[Frequency Domain analysis on fingerprint extraction]]
