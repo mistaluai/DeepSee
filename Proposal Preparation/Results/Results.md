@@ -10,4 +10,4 @@ Batch size doesn't have direct impact on the accuracy of the detection as long a
 #### Phase vs Magnitude
 [[kNN SD1.5 - Frequency Domain - Phase vs Magnitude Analysis]]
 ##### Summary
-We conclude that we can build an assumption upon this that the magnitude holds more important features than the phase.
+We can build an assumption upon this that the magnitude holds more important features than the phase.
